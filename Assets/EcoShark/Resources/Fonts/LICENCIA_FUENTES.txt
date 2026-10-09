@@ -1,0 +1,7 @@
+Fuentes usadas en la interfaz de ECO SHARK (Google Fonts, distribuidas en los paquetes npm @expo-google-fonts):
+
+- Lilita One — Copyright (c) 2011 Juan Montoreano, with Reserved Font Name "Lilita". Licencia: SIL Open Font License 1.1
+- Baloo 2 (Bold) — Copyright 2019 The Baloo 2 Project Authors (Ek Type). Licencia: SIL Open Font License 1.1
+
+La licencia SIL OFL 1.1 permite usarlas, incluirlas y distribuirlas en juegos (también comerciales).
+Texto completo de la licencia: https://openfontlicense.org

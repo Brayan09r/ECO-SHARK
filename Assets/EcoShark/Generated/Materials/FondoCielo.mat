@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FondoCielo
+  m_Shader: {fileID: 4800000, guid: d8bf24a31a831154c95d83a17b48eaaa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _CamX: 0
+    - _CloudCover: 0.56
+    - _CloudSpeed: 0.015
+    - _GradStartY: 0
+    - _Parallax: 1.5
+    - _Scale: 70
+    - _SplitY: 0
+    m_Colors:
+    - _CloudColor: {r: 1, g: 1, b: 1, a: 1}
+    - _CloudShadow: {r: 0.76, g: 0.86, b: 0.97, a: 1}
+    - _SkyHorizon: {r: 0.8, g: 0.93, b: 1, a: 1}
+    - _SkyTop: {r: 0.3, g: 0.62, b: 0.95, a: 1}
+    - _WaterDeep: {r: 0.03, g: 0.12, b: 0.21, a: 1}
+    - _WaterTop: {r: 0.09, g: 0.47, b: 0.6, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
